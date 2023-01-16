@@ -1,6 +1,6 @@
 ## DWH Definition
 
-A Data Warehouse is a **subject-oriented**, **integrated**, **non-volatile**, and **time-variant** collection of data in support of management’s decisions.”Sean Kelly, another leading data warehousing practitioner defines the data warehouse in the following way.
+A Data Warehouse is a **subject-oriented**, **integrated**, **non-volatile**, and **time-variant** collection of data in support of management’s decisions.
 - subject-oriented：Data warehouses are all based on a specific theme, and only data related to the theme are needed, and other irrelevant detailed data will be excluded.  
 
 
