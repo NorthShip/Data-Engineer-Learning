@@ -4,3 +4,4 @@
 
 [Top-level design](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%202.md)
 
+[Development preparation](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%203.md)
