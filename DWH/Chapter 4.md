@@ -1,3 +1,3 @@
 ## Data Warehouse Design Process
-![](..\img\dwh 1.jpg)
+![](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/img/dwh%201.jpg)
 
