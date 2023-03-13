@@ -11,3 +11,6 @@
 [OLAP](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%207.md)
 
 [Optimization Solutions](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%208.md)
+
+### Datalake
+[Definition](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%208.md)
