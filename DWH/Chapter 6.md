@@ -26,8 +26,8 @@
 ### Data release
 
 #### Fact table loading
-| Features           | Transaction Facts             | Cycle Snapshot Facts    | Cumulative Snapshot Facts                         |
-|--------------------|-------------------------------|-------------------------|---------------------------------------------------|
+| Features               | Transaction Facts             | Cycle Snapshot Facts    | Cumulative Snapshot Facts                         |
+|------------------------|-------------------------------|-------------------------|---------------------------------------------------|
 | **Time/Period**        | time                          | period                  | multiple points in time with short time spans     |
 | **Granularity**        | one transaction fact per line | one time period per row | one business cycle per line                       |
 | **Fact table loading** | add                           | add                     | add and modification                              |

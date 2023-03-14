@@ -1,13 +1,13 @@
 ## Development preparation
 ### policy making
 #### Table Naming Convention
-|  layer | Naming convention                                 |
-| --- |---------------------------------------------------|
-|stg| stg_{source_db}_{source_table}                    |
-|ods| ods_{source_db}_{source_table}                    |
-|dw| dwd/dws_{domain}_{business_describe}_di/df        |
-|dm | dm_{domain}_{business_describe}_xd/xm/xy          |
-|ads | ads_{business_owner}_{business_describe}_xd/xm/xy |
+| layer | Naming convention                                 |
+|-------|---------------------------------------------------|
+| stg   | stg_{source_db}_{source_table}                    |
+| ods   | ods_{source_db}_{source_table}                    |
+| dw    | dwd/dws_{domain}_{business_describe}_di/df        |
+| dm    | dm_{domain}_{business_describe}_xd/xm/xy          |
+| ads   | ads_{business_owner}_{business_describe}_xd/xm/xy |
 
 "di" indicates that the data is incrementally written, and "df" indicates that the data is fully written each time.
 
