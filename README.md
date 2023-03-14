@@ -6,6 +6,8 @@
 
 [Development preparation](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%203.md)
 
+[Design Process](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%204.md)
+
 [Data Warehouse Modeling](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%205.md)
 
 [OLAP](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/DWH/Chapter%207.md)
