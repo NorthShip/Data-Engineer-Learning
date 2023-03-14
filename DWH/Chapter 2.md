@@ -1,4 +1,4 @@
-## DWH Top-level design
+## Top-level design
 
 ### Basic principles  
    #### High cohesion and low coupling  

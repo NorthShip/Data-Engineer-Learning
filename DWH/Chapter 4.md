@@ -1,5 +1,5 @@
-## Data Warehouse Design Process
-![](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/img/dwh%201.jpg)
+## Design Process
+![](https://github.com/NorthShip/Data-Engineer-Learning/blob/main/img/dwh%201.png)
 
 ### Business Research
 Researching business processes, exploring data situations, and analyzing requirements.
