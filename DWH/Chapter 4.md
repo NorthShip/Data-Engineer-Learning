@@ -6,7 +6,7 @@ Researching business processes, exploring data situations, and analyzing require
 
 ###### Example table
 
-| Example Conpany | Trade | Logistics | Marketing |
+| Example Company | Trade | Logistics | Marketing |
 |-----------------|-------|-----------|-----------|
 | Target          |       |           |           |
 | Needs           |       |           |           |
